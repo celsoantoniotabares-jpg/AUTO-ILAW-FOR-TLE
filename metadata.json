@@ -1,0 +1,6 @@
+{
+  "name": "ILAW TLE Lesson Plan Generator",
+  "description": "A professional 4-Day DepEd ILAW format lesson plan generator and curriculum bank. Designed, Tuned, and Developed by Celso Antonio B. Tabares IV, Teacher I, Toboso National High School.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
